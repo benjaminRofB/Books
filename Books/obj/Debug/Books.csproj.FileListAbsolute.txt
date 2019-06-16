@@ -1,0 +1,15 @@
+E:\NEW LIFE\PROJECT\Books\Books\bin\Debug\Books.exe.config
+E:\NEW LIFE\PROJECT\Books\Books\bin\Debug\Books.exe
+E:\NEW LIFE\PROJECT\Books\Books\bin\Debug\Books.pdb
+E:\NEW LIFE\PROJECT\Books\Books\bin\Debug\EntityFramework.dll
+E:\NEW LIFE\PROJECT\Books\Books\bin\Debug\EntityFramework.SqlServer.dll
+E:\NEW LIFE\PROJECT\Books\Books\bin\Debug\EntityFramework.xml
+E:\NEW LIFE\PROJECT\Books\Books\bin\Debug\EntityFramework.SqlServer.xml
+E:\NEW LIFE\PROJECT\Books\Books\obj\Debug\Books.csprojAssemblyReference.cache
+E:\NEW LIFE\PROJECT\Books\Books\obj\Debug\Books.csproj.CoreCompileInputs.cache
+E:\NEW LIFE\PROJECT\Books\Books\obj\Debug\Books.csproj.CopyComplete
+E:\NEW LIFE\PROJECT\Books\Books\obj\Debug\Books.exe
+E:\NEW LIFE\PROJECT\Books\Books\obj\Debug\Books.pdb
+E:\NEW LIFE\PROJECT\Books\Books\obj\Debug\Books.Migrations.InitialCreate.resources
+E:\NEW LIFE\PROJECT\Books\Books\obj\Debug\Books.csproj.GenerateResource.cache
+E:\NEW LIFE\PROJECT\Books\Books\obj\Debug\Books.Migrations.dataannotations.resources
